@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.youdep.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. You Dep</name>
+    <name>You Dep</name>
 
     <description>
         You Dep App - это приложение для участников сервиса www.youdep.ru
